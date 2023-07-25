@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   cursor="crosshair"
+   viewBox="0 0 72.44001 67.569679"
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="Logo-15.svg"
+   width="72.44001"
+   height="67.569679"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview124"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.6591257"
+     inkscape:cx="24.068061"
+     inkscape:cy="44.939583"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs97">
+    <style
+       id="style95">.cls-1{font-size:60.81px;fill:#fff;font-family:Waxe;}.cls-2{fill:#19a83f;}.cls-3{fill:#18b63f;}.cls-4{fill:#14812e;}.cls-5{fill:#26d258;}.cls-6{fill:#28ca5b;}.cls-7{fill:#1abe39;}.cls-8{fill:#1b9a3f;}</style>
+  </defs>
+  <title
+     id="title99">Logo</title>
+  <path
+     class="cls-2"
+     d="m 26.180003,18.799675 -8,-13.9400003 A 36.19,36.19 0 0 0 3.3849079e-6,36.209675 H 16.120004 a 20.12,20.12 0 0 1 10.059999,-17.41"
+     id="path101" />
+  <path
+     class="cls-3"
+     d="M 16.120004,36.209675 H 3.3849079e-6 A 36.19,36.19 0 0 0 18.100003,67.569675 l 8.05,-13.94 a 20.1,20.1 0 0 1 -10.029999,-17.42"
+     id="path103" />
+  <path
+     class="cls-4"
+     d="m 36.240005,16.099674 a 20,20 0 0 1 10,2.69 l 8.05,-13.9400003 a 36.22,36.22 0 0 0 -36.21,0 l 8.099998,13.9500013 a 20,20 0 0 1 10.060002,-2.700001"
+     id="path105" />
+  <path
+     class="cls-3"
+     d="M 54.339999,4.8496747 M 46.290004,18.799675 a 20.12,20.12 0 0 1 10.059997,17.41 H 72.440005 A 36.19,36.19 0 0 0 54.339999,4.8496747"
+     id="path107" />
+  <path
+     class="cls-2"
+     d="m 46.290004,53.629677 8.05,13.94 a 36.19,36.19 0 0 0 18.1,-31.36 H 56.350001 a 20.1,20.1 0 0 1 -10.059997,17.42"
+     id="path109" />
+  <path
+     class="cls-5"
+     d="m 23.120002,36.209675 h -7 a 20.1,20.1 0 0 0 10.060001,17.420002 l 3.5,-6.06 A 13.11,13.11 0 0 1 23.120002,36.209675"
+     id="path111" />
+  <path
+     class="cls-6"
+     d="m 29.680003,24.859675 -3.5,-6.06 a 20.12,20.12 0 0 0 -10.06,17.41 h 7 a 13.1,13.1 0 0 1 6.56,-11.35 z"
+     id="path113" />
+  <path
+     class="cls-7"
+     d="m 26.180003,18.799675 3.5,6.07 a 13.09,13.09 0 0 1 13.11,0 l 3.500001,-6.07 a 20.14,20.14 0 0 0 -20.11,0"
+     id="path115" />
+  <path
+     class="cls-5"
+     d="m 49.350001,36.209675 h 7 a 20.12,20.12 0 0 0 -10.059997,-17.41 l -3.5,6.07 a 13.1,13.1 0 0 1 6.559997,11.34"
+     id="path117" />
+  <path
+     class="cls-6"
+     d="m 42.790004,47.569675 3.5,6.06 a 20.1,20.1 0 0 0 10.059997,-17.42 h -7 a 13.11,13.11 0 0 1 -6.559997,11.36"
+     id="path119" />
+  <path
+     class="cls-8"
+     d="m 36.240005,36.209675 6.55,-11.35 a 13.09,13.09 0 0 0 -13.11,0 l 6.56,11.35"
+     id="path121" />
+  <metadata
+     id="metadata303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

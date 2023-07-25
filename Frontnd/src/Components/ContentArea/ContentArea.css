@@ -1,0 +1,35 @@
+.contentPaneBanners {
+  background-color: #12302d;
+}
+
+/* .end-dashboard { 
+  font-size: 14px; 
+} */
+
+.form-link {
+  font-size: 20px;
+}
+
+/* unvisited link */
+.form-link:link {
+  color: #53c07d;
+  text-decoration: none;
+}
+
+/* visited link */
+.form-link:visited {
+  color: #53c07d;
+  text-decoration: none;
+}
+
+/* mouse over link */
+.form-link:hover {
+  color: #53c07d;
+  text-decoration: none;
+}
+
+/* selected link */
+.form-link:active {
+  color: #53c07d;
+  text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.check-out-button {
+    background-color: #53c07d;
+    border:#53c07d;
+    font-family: poppins;
+  }
+  
+  .check-out-button:hover {
+    background-color: #319f5b;
+    border:#319f5b;
+    font-family: poppins;
+  }

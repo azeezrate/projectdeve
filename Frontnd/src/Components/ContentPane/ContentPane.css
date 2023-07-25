@@ -1,0 +1,30 @@
+.fill {
+	min-height: 100%;
+	height: 100%;
+	background-color: #e3e3e5;
+}
+
+.contentPaneBanner {
+	background-color: #53c07d;
+}
+
+.titles {
+	color: #717070;
+}
+
+.portf-health {
+	font-size: 33px;
+	color:#53c07d;
+}
+
+.health-button {
+	background-color: #53c07d;
+	border: #53c07d;
+	font-family: poppins;
+}
+
+.health-button:hover {
+	background-color: #319f5b;
+	border:#319f5b;
+	font-family: poppins;
+  }

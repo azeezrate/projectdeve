@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="green_tick.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="-43.961864"
+     inkscape:cy="125"
+     inkscape:window-width="1280"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <circle
+     cx="125"
+     cy="125"
+     r="125"
+     fill="#06D68B"
+     id="circle9"
+     style="fill:#53c07d;fill-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M70.2515 122.057C67.8673 124.441 67.8673 128.307 70.2515 130.691L108.041 168.48C108.063 168.503 108.085 168.525 108.107 168.548L109.436 169.876C111.82 172.26 115.685 172.26 118.069 169.876L187.14 100.806C189.524 98.4214 189.524 94.5559 187.14 92.1718L185.811 90.8435C183.427 88.4594 179.562 88.4593 177.178 90.8435L113.753 154.268L80.2135 120.729C77.8294 118.344 73.9639 118.344 71.5797 120.729L70.2515 122.057Z"
+     fill="white"
+     id="path11" />
+</svg>

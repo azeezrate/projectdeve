@@ -1,0 +1,60 @@
+.footerContainer {
+	/* background-color: #12302d; */
+	background-color: white;
+	padding-left: 0px;
+}
+
+/* .second-column {
+	padding-left: 20px;
+} */
+
+p {
+	font-size: 14px;
+  }
+
+.site-map {
+	  font-size: 16px;
+	  font-weight: bold;
+	   color: #53c07d;
+  }
+
+/* unvisited link */
+.site-map:link {
+	color: #53c07d;
+	text-decoration: none;
+	
+  }
+  
+  /* visited link */
+  .site-map:visited {
+	color: #53c07d;
+	text-decoration: none;
+  }
+  
+  /* mouse over link */
+  .site-map:hover {
+	color: #53c07d;
+	text-decoration: none;
+  }
+  
+  /* selected link */
+  .site-map:active {
+	color: #53c07d;
+	text-decoration: none;
+  }
+
+  h6 {
+	  font-family: 'Poppins';
+	  font-weight: bold;
+  }
+
+  .copyright {
+	  color:#53c07d;
+	  font-size: 14px;
+  }
+
+  .hover-underline-animation {
+	position: relative;
+	color: #319f5b;
+	text-decoration: none;
+  }
